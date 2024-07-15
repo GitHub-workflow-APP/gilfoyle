@@ -1,7 +1,7 @@
 ⚠️ **Development on this project has been stopped due to lack of activity. Project should be considered as unstable and outdated.**
 
 <p align="center">
-  <img width="280" src="./website/static/logo_white_bg.png" alt="gilfoyle logo">
+  <img width="280" src="./website/static/logo_white_bg.png" alt="gilfoyle logo">.
 </p>
 
 <p align="center">Distributed video encoding, hosting and delivery. By <a href="https://dreamvo.com/"><strong>Dreamvo</strong></a></p>
